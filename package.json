@@ -40,7 +40,14 @@
       "last 1 safari version"
     ]
   },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nikita-zam/laba_6.git"
+    },
+
   "devDependencies": {
+    "@semantic-release/changelog": "6.0.3",
     "@semantic-release/commit-analyzer": "^11.1.0",
     "@semantic-release/github": "^9.2.3",
     "@semantic-release/release-notes-generator": "^12.1.0",
